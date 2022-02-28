@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diatribē VVherein the iudgement of the reformed churches and Protestant divines, is shewed, concerning preaching by those who are not ordained ministers.</title>
+            <author>Simpson, Sidrach, 1600?-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93274</idno>
+            <idno type="STC">Wing S3823A</idno>
+            <idno type="STC">ESTC R204882</idno>
+            <idno type="EEBO-CITATION">99895565</idno>
+            <idno type="PROQUEST">99895565</idno>
+            <idno type="VID">153344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2359:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Diatribē VVherein the iudgement of the reformed churches and Protestant divines, is shewed, concerning preaching by those who are not ordained ministers.</title>
+                  <author>Simpson, Sidrach, 1600?-1655.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Peter Cole, and are to be sold at his shop at the sign of the Printing-Press in Cornhil, neer the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Sidrach Simpson.</note>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Last leaf is blank.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ordination --  Early works to 1800.</term>
+               <term>Lay preaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153344:1" rendition="simple:additions"/>
+            <p>ΔΙΑΤΡΙΒΗ. VVherein the Iudgement of THE Reformed Churches AND Proteſtant Divines, is ſhewed, Concerning PREACHING By thoſe who are not Ordained MINISTERS.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Peter Cole,</hi> and are to be ſold at his ſhop at the ſign of the Printing-Preſs in Cornhil, neer the <hi>Royal Exchange,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153344:2"/>
+            <pb n="3" facs="tcp:153344:2"/>
+            <head>Concerning Preaching by thoſe who are not Ordained Miniſters.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Man may lawfully Preach the Word, who is not called to be a Miniſter. For,</p>
+            <p n="1">1. He may Preach who is ſent; But one may be ſent who is not ſent Miniſterially as an Officer, as ap<g ref="char:EOLhyphen"/>pears <hi>Rom.</hi> 10.14, 15. <hi>How can they preach except they be ſent? &amp;c.</hi> The <hi>ſending,</hi> is not a Miniſterial, Eccleſiaſtical ſending, for then none could be an inſtrument to convert another but a Miniſter; For its ſaid, <hi>None can believe but by hearing a Preacher ſent.</hi> And again in the 18. Verſe, The <hi>ſending</hi> is expreſ<g ref="char:EOLhyphen"/>ſed by the going out of the Sun, as appears by <hi>Pſal.</hi> 19.4. Where the ſame words are: Now the courſe of the Sun is natural and by providence. Yea laſtly, Whereas the Apoſtles ſcope is to take away doubting from men, as appears by Verſe 6, &amp; 7. <hi>Say not in thy heart, who ſhall aſcend, &amp;c?</hi> He had by this laid the greateſt ground of doubting that could be, for every man muſt doubt whether he have Faith or no, and whether he ſhall be ſaved or no by that Faith, till he be ſure his Faith was wrought in him by a Miniſter lawfully called into office (and that he cannot be, unleſs he be ſure he that made him Miniſter was lawfully called, &amp;c.)
+<pb n="4" facs="tcp:153344:3"/>For ſaith the Text, <hi>That is not ſaving Faith which comes not by hearing of one ſent.</hi> It remains therefore that the Apoſtle ſpeaks of <hi>a providential ſending,</hi> by giving men gifts, and working with them in their uſe and exerciſe.</p>
+            <p n="2">2. The Prophets might preach, 1 <hi>Cor.</hi> 14.3.31. But they were neither ſuch as were immediately in<g ref="char:EOLhyphen"/>ſpired with prediction, for women that were ſo in<g ref="char:EOLhyphen"/>ſpired might deliver their Propheſie in the Church, but there women are forbidden to ſpeak, Verſe 34. Nor were thoſe Prophets Miniſters, for Verſe 23.26. he ſpeaks of Prophecy as a gift in all or moſt of the members of the Church, and forbids it to none but women, Verſe 31.34. Laſtly, Thoſe gifts which are required in a Prophet, Verſe 3.26. are ſuch as men ordinarily may attain by induſtry and ſtudy, Verſe 1. and do attain unto in the Church.</p>
+            <p n="3">3. Ruling Elders may preach (who are not ac<g ref="char:EOLhyphen"/>counted Miniſters) <hi>They muſt,</hi> 1 Tim. 3.2. <hi>be apt to teach.</hi> To make this out to be meant of Ru<g ref="char:EOLhyphen"/>ling Elders: Conſider, that either thoſe qualifica<g ref="char:EOLhyphen"/>tions mentioned in that Chapter, are the qualifica<g ref="char:EOLhyphen"/>tions of Ruling Elders, or not. If not, then is there an office of Ruling Elder appointed, without ſhewing what a one he ſhould be, which is not like<g ref="char:EOLhyphen"/>ly, ſeeing the qualities of the Deacon (an inferior officer to him) are punctually ſet down there, Verſe 8. As <hi>Timothy</hi> could not tell how to behave himſelf in the Church about other officers,<note place="margin">1 Tim. 3.14.</note> unleſs it had been ſet down what kinde of perſons they ſhould be; he could not, much leſs can we tell how to behave our ſelves in the Church of God about them, without ſuch di<g ref="char:EOLhyphen"/>rection.
+<pb n="5" facs="tcp:153344:3"/>Certainly Ruling Elders are not of Chriſt unleſs they be deſcribed; deſcribed they are not, unleſs where the Teaching Elder is deſcribed: If they be deſcribed there, they muſt be <hi>apt to Teach,</hi> that is, be able by ſound Doctrine both to exhort, and convince the gainſayer, as it is expounded, <hi>Tit.</hi> 1.9.</p>
+            <p n="4">4. Its granted on all hands, that ſuch as in<g ref="char:EOLhyphen"/>tend the Miniſtery, though not yet in the Miniſtery, may Preach: Therefore Preaching is not an adjunct belonging only to the Miniſtery, or an act formally flowing from it. As it implies a contradiction that a formal act ſhould be before the form be introdu<g ref="char:EOLhyphen"/>ced; ſo it doth, that none but one in Office may Preach, and yet one may Preach to get an Office. Hath the intention of being a Miniſter begotten this power, as fire makes the wood ſmoke before it flame? No; For the intention is but conditional, if he Preach well: Yea and not only ſo, but if he be otherwiſe fitted. As a Miniſter is ſo neceſſary to the Sacrament of Baptiſm, becauſe its an act of Office, that though the childe ſhould dye without Baptiſm, yet it may not have it without a Miniſter; upon the ſame reaſon none may Preach in order to the Miniſtery, if to Preach be an act of Office, what<g ref="char:EOLhyphen"/>ſoever may be pretended for it.</p>
+            <p n="5">5. If is alſo granted, that men that are not in the Miniſtery may write Commentaries on the Scripture on any Text or Book, and write <hi>more Con<g ref="char:EOLhyphen"/>tionatotio,</hi> ſermonwiſe. if they may Preach by their Pen, they may by their Tongue alſo.</p>
+            <p n="6">6. Of this minde are the Reformed Churches. Not only Prophets in Orders, but the Common
+<pb n="6" facs="tcp:153344:4"/>people, who ſit in their ſeats, may lawfully ſpeak that of the word of God in the Church,<note place="margin">Non ſolis per ordinem Pro<g ref="char:EOLhyphen"/>phetis, ſed vul<g ref="char:EOLhyphen"/>go in ſubſelliis ſedentibus, in Eccleſia de ver<g ref="char:EOLhyphen"/>bo loqui lice<g ref="char:EOLhyphen"/>bit, quod ſpi<g ref="char:EOLhyphen"/>ritus revelaſſet. Qui nos ſi nu<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>quam remiſiſ<g ref="char:EOLhyphen"/>ſet nunqua<g ref="char:cmbAbbrStroke">̄</g> tot errores in chri<g ref="char:EOLhyphen"/>ſti Eccleſiam fuiſſent indu<g ref="char:EOLhyphen"/>cti. Sunt enim ſemper qui per Spiritum coe<g ref="char:EOLhyphen"/>leſtem depre<g ref="char:EOLhyphen"/>hendunt, affectuum docentis fraudem, qua deinde patefactâ, liberaret verbum à violen<g ref="char:EOLhyphen"/>tia depravatione. Paulatim vero huc ventum eſt, ut quicquid perverſiſſimus quiſque Nugator pro ſuggeſtu, in loco Prophetae effutiret, pro Oraculo haberetur, &amp; quiſquis non haberet, ſed vel contra mutiret, crudeliſſimè vapulacet. <hi>Tom.</hi> 1. <hi>p.</hi> 196. <hi>ad Emſerum.</hi>
+               </note> which the Spirit hath revealed to them, ſaith <hi>Zuinglius.</hi> And if that cuſtome had never been laid down, there had never been ſo many <hi>errors</hi> brought into the Church: For there are always ſome who by the heavenly ſpirit do take notice of the deceit of the affections of the Teacher, which being laid open, the word would be free from violent depravation. By little and little it is come to this, that whatſoever every, the moſt corrupt Babler ſhall utter unadviſedly in the Pulpit in the Place of a Prophet, muſt be counted for an oracle, and whoſoever doth not eſteem it ſo, or whiſpers the leaſt thing againſt it, ſhall ſuffer from mens Tongues moſt cruelly. The like he ſaith in his Commentary,<note place="margin">Tom. 2. p. 45. li. Eccleſiaſtes.</note> on 1 <hi>Cor.</hi> 14.29. <hi>Let the reſt judge:</hi> And profeſſeth that they would in a ſhort time take up the practiſe in the <hi>Tigurine</hi> Churches.</p>
+            <p>
+               <hi>Aretius.</hi>
+               <note place="margin">Aretius.</note> The Church of God of old did not lay all on one man as now it doth:<note place="margin">Vetus Eccleſia non uni omnia imponebat, ut hodiè fit; Mi<g ref="char:EOLhyphen"/>niſter hodiè ſolus agit, &amp; omnia ferè in caetu, orat, le<g ref="char:EOLhyphen"/>git, interpreta<g ref="char:EOLhyphen"/>tur, revelatio<g ref="char:EOLhyphen"/>nes profert, do<g ref="char:EOLhyphen"/>cet linguas ex<g ref="char:EOLhyphen"/>plicat, cantum exorditur. Olim non ita, ſed alius legebat locum Scripturae, alius interpretabatur, aliud addebat ſuum judicium, alius preces habebat, alius canebat, alius acclamabat Amen, &amp; ſimilia. Sic nemo videbatur otioſus in toto coetu. <hi>Aretius</hi> in 1 <hi>Cor.</hi> 14.26.</note> Now the Miniſter doth all almoſt in the meeting, he prays, reads, inter<g ref="char:EOLhyphen"/>prets, brings forth what God hath revealed to him; He teaches tongues, explains, begins the Pſalm. It was not ſo from the begining, but one read a place of Scripture, another interpreted, another gave his judgement, another prayed, another Sung, another ſaid <hi>Amen,</hi> and the like. And by this means no man in the aſſembly was idle.</p>
+            <p>
+               <pb n="7" facs="tcp:153344:4"/>
+               <note place="margin">Iterum apparet olim in coeti<g ref="char:EOLhyphen"/>bus officiu<g ref="char:cmbAbbrStroke">̄</g> do<g ref="char:EOLhyphen"/>cendi multis in cubuiſſe, nec enim unus omnia praeſtabat ut hodiè. <hi>In ver.</hi> 28.</note>And upon the 28. verſe, It again is evident, that of old the duty of teaching lay upon many in the Aſſemblies, and one did not do all, as we do it now.</p>
+            <p>
+               <hi>Peter Martyr,</hi> who was ſent for to help on the Reformation in the time of King <hi>Edward</hi> the 6. upon thoſe words <hi>[you may all prophecy one by one]</hi> When he ſaith <hi>[All]</hi> he ſeems to exclude none of the common ſort of Chriſtians;<note place="margin">Cum dicit Omnes, Nul<g ref="char:EOLhyphen"/>los ex Plebe Chriſtiana vi<g ref="char:EOLhyphen"/>detur exclude<g ref="char:EOLhyphen"/>re. Sed quia putant obliqui hoc tantum ad ordinem Pro<g ref="char:EOLhyphen"/>phetarum per<g ref="char:EOLhyphen"/>tinere, &amp; quia nos dicimus ad Plebem quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> hoc referendu<g ref="char:cmbAbbrStroke">̄</g>, &amp; abſurdum exiſtimant &amp; contra Patrum ſententiam di<g ref="char:EOLhyphen"/>ci: Operae pre<g ref="char:EOLhyphen"/>tium fuerit au<g ref="char:EOLhyphen"/>dire Ambro<g ref="char:EOLhyphen"/>ſium, quid hoc loco, de re hu<g ref="char:EOLhyphen"/>juſmodi ſta<g ref="char:EOLhyphen"/>tuat. Tripli<g ref="char:EOLhyphen"/>cem ordinem eorum qui ſunt in Eccleſia fa<g ref="char:EOLhyphen"/>cit, Aliqui Seniores in Cathedris ſublimioribus ſedent atque hi ſunt Presbyteri: Alli occupant ſubſellia in inferiori loco: ſunt poſteremo qui ſedeant in pavimento ſuper Mattas. Quibus ſi revelatum fuerit, dandus eſt locus, non enim deſpicendi ſunt cum membra corporis habeantur. Et ſupra viſus eſt ſententiae hujus rationem afferre, ſicut enim minimè conceduntur uni omnia; ſic etiam nullus eſt tam parvo loco. Et aliquid impertiatur, ut nemo ſit vacuus Dei gratia. <hi>Pet. Mart. in</hi> 1 <hi>Cor.</hi> 14.31. <hi>which he alſo dedicated to</hi> K. Edw. 6.</note> But becauſe ſome think that this belongs only to prophets in orders, and think that its both abſurd, and contrary to the judgement of the Fathers to refer this to the Com<g ref="char:EOLhyphen"/>mon ſort of Chriſtians, it will be worth the while to hear <hi>Ambroſe,</hi> and what in this place he deter<g ref="char:EOLhyphen"/>mines in this caſe; he makes three ranks of them who are in the Church. Some ſit in higher ſeats, and thoſe are Elders; Some on ſeats in a lower place: Some ſit on the ground upon Mats: Place muſt be given unto <hi>them</hi> if any thing be re<g ref="char:EOLhyphen"/>vealed; for they are not to be deſpiſed, ſeeing they are accounted members of the Body. And he gives this reaſon for his opinion, Becauſe as God hath not given all to one, ſo there is none of ſo mean place, but ſomething is imparted to him, that no man may be without the grace of God. This he goes on to ſay was an ancient cuſtome amongſt the Iewes, which being good and laudible, the Apoſtle
+<pb n="8" facs="tcp:153344:5"/>diſdains not to bring into the Church of Chriſt, ſeeing it is not a legal Ceremony,<note place="margin">Tis no legal Ceremony.</note> but conducing to the Reformation of the Church. That it was a Cuſtome amongſt the Jews in their Syna<g ref="char:EOLhyphen"/>gogues, appears by Story of the Evangeliſts, where Chriſt being yet a childe was admitted to hear the Doctors, to ask queſtions of them, and to anſwer: Whereby you ſee that neither was he rejected for his age, being yong, nor for his con<g ref="char:EOLhyphen"/>dition, being accounted a Carpenters ſon. And af<g ref="char:EOLhyphen"/>terwards, when Chriſt was elder, there was a Book given him in the Synagogue to read and interpret.</p>
+            <p>
+               <note place="margin">It differs from Anabaptiſts.</note>This <hi>Peter Martyr</hi> diſtinguiſhes from the <hi>Anaba<g ref="char:EOLhyphen"/>ptiſts,</hi> thus, That the Anabaptiſts give all leave to ſpeak, without making any difference, and they acknowledge no order of Miniſters in the Church; Whereas the Apoſtle only, doth not lay this only on them. <hi>As every man</hi> (ſaith he) <hi>may ſpeak in the Par<g ref="char:EOLhyphen"/>liament, though the Law be made by the better part, ſo &amp;c.</hi> And he perſwades to uſe this upon holy-days, and complains of the Churches loſs in not having it.<note place="margin">Ibid.</note> 
+               <hi>Conventus hujus modi maxima cum jactura ami<g ref="char:EOLhyphen"/>ſimus.</hi>
+            </p>
+            <p>
+               <note place="margin">In omnibus Eccleſiis, ſive naſcentibus, ſi<g ref="char:EOLhyphen"/>ve vegetis, pro<g ref="char:EOLhyphen"/>pheticae ordo ex Pauli inſtituto obſervetur. Ad hoc Collegium cooptentur non modo Miniſtri ſed etiam Doctores ac ex ſenioribus &amp; Diaconis, atque adeo ex ipſa Plebe ſi qui ſint qui do<g ref="char:EOLhyphen"/>num ſuum à domino acceptum in communem Eccleſiae utilitatem conferre velint. Ita tamen ut prius Miniſtrorum atque aliorum probentur judicio. Vbi autem is cujus erunt partes vices ſuas expleverit, licebit iis qui ſubſelliis eum inſequuntur, ſiquidem viſum erit adjicere quod ad edificationem pertineat. Ac cum demum concepta oratione ab eo cujus erunt partes coetus claudatur. <hi>Harmonia Synod. Belgick. Cap.</hi> 5.</note>The Synods of <hi>Embden</hi> and <hi>Weſel,</hi> determine thus; In all Churches, whether growing or grown up, the order of Prophecy is to be obſerved accor<g ref="char:EOLhyphen"/>ding
+<pb n="9" facs="tcp:153344:5"/>to the appointment or inſtitution of <hi>Paul.</hi> To this company do belong not only Miniſters, but Doctors, and out of the Elders and Deacons, yea of the common ſort of Chriſtians, thoſe, who have received a gift from the Lord, &amp; wil beſtow it to the common benefit of the Church: Yet ſo as they be firſt tryed by the judgement of the Miniſters and and others. And when he hath done his part to whom it belongeth, it ſhall be lawful for them who ſitting in their ſeats go on after him (if it be thought good) to adde any thing vvhich may edifie. And at laſt, hee having prayed by conceived prayer, to whom it belongs, the meeting is to be ended.</p>
+            <p>
+               <note place="margin">Church of Scotland.</note>This alſo was the practice of the Church of <hi>Scotland.</hi> At that time we had no publique Mini<g ref="char:EOLhyphen"/>ſters of the Word,<note place="margin">Hiſtory of Reformation of Church of Scotland, prin<g ref="char:EOLhyphen"/>ted 1644. in 4. lib. 1. p. 127.</note> onely did certain zealous men (amongſt whom was the Laird of <hi>Dun, David For<g ref="char:EOLhyphen"/>reſt,</hi> Mr. <hi>Robert Lockhart,</hi> Mr. <hi>Rob. Hamilton, Wil<g ref="char:EOLhyphen"/>liam Harlow,</hi> and others) exhort their Brethren, ac<g ref="char:EOLhyphen"/>cording to the gifts and graces granted unto them. And <hi>pag.</hi> 130. they make this particular demand of the Queen, That if it ſhall happen in our ſaid Meet<g ref="char:EOLhyphen"/>ings, any hard place of Scripture to be read, of which without explanation, hardly can ariſe any profit to the hearers, that it ſhall be lawful to any qualified perſons in knowledge being preſent to in<g ref="char:EOLhyphen"/>terpret and open up the ſaid hard places, to Gods glory and the profit of the auditory. And if any think, that this liberty ſhould be occaſion of <hi>Con<g ref="char:EOLhyphen"/>fuſion, Debate</hi> or <hi>Hereſie,</hi> we are content that it be provided, that the ſaid interpretation ſhall underly
+<pb n="10" facs="tcp:153344:6"/>the judgement of the godly and moſt learned with<g ref="char:EOLhyphen"/>in this Realm at this time. And it is to be ob<g ref="char:EOLhyphen"/>ſerved, that this was after <hi>Paul Methuen</hi> and <hi>John Wilcocks,</hi> Miniſters, were come to them, <hi>pag.</hi> 127. But it ſeems they yet wanted more to teach them.</p>
+            <p>
+               <hi>Cartwright,</hi>
+               <note place="margin">Cartwr. in 1 Cor. 14. ſect. 5. p. againſt Rhemiſts.</note> Notwithſtanding the uſe of extraor<g ref="char:EOLhyphen"/>dinary gifts in tongues and Revelation of things to come be ceaſed: Yet the exerciſe of conference of their gifts whom God hath beſtowed ſuch know<g ref="char:EOLhyphen"/>ledge of, as may ſerve to edifying, exhortation and comfort of the Church, remaineth ſtill, for thoſe gifts remain yet whereby thoſe ends may be at<g ref="char:EOLhyphen"/>chieved, &amp;c.</p>
+            <p>The Apoſtle commandeth the Church of <hi>Theſſa<g ref="char:EOLhyphen"/>lonica,</hi> that it ſhould not deſpiſe Prophecies, where (ſpeaking in the plural and not in the ſingular, as <hi>Rom.</hi> 12. where he ſpecifieth the ordinary Mini<g ref="char:EOLhyphen"/>ſters) he ſeemeth to include their exerciſe alſo, which being judged fit to handle the Word, were admitted to ſpeak, although they had otherwiſe no <hi>Publique Function</hi> in the Church. And having ſpoken of this exerciſe by thoſe who have been trained up to the Miniſtery of the Church, he ad<g ref="char:EOLhyphen"/>deth out of <hi>Act.</hi> 13.15. That the Rulers of the Sy<g ref="char:EOLhyphen"/>nagogue, offering after the reading of the Law, unto <hi>Paul</hi> and <hi>Barnabas</hi> to ſpeak (whom they knew not, not could (for <hi>Pauls</hi> perſon) know that they were <hi>Levites</hi> or <hi>Prieſts</hi> ordained for the publique Miniſte<g ref="char:EOLhyphen"/>ry of the Church,<note place="margin">Not onely thoſe who are to be Mini<g ref="char:EOLhyphen"/>ſters.</note>) it appears that they made this offer unto them as unto men, whom although they eſteemed private, yet judged that they might have
+<pb n="11" facs="tcp:153344:6"/>ſome good gift of opening the Scriptures to the inſtruction of the Aſſembly. It appeareth alſo that this exerciſe was upon the Sabbath day; and there<g ref="char:EOLhyphen"/>fore, if not at the ſame time, yet at the ſame Meet<g ref="char:EOLhyphen"/>ing or day at leaſt when other the publike Miniſters of the Church executed their office of making prayers, and adminiſtring the Sacraments of Cir<g ref="char:EOLhyphen"/>cumciſion (in the Jews Synagogue) and of Baptiſm and the Holy Supper in the Chriſtian Church.<note place="margin">In uſe in the Chriſtian Church.</note>
+            </p>
+            <p>
+               <note place="margin">Praedicare ali<g ref="char:EOLhyphen"/>quo modo ex occaſione, at<g ref="char:EOLhyphen"/>que etiam eo<g ref="char:EOLhyphen"/>dem modo, quo Stephanus &amp; Philippus hoc feciſſe nar<g ref="char:EOLhyphen"/>rantur conve<g ref="char:EOLhyphen"/>nit cuilibet fi<g ref="char:EOLhyphen"/>deli, ſecundum menſuram illam donorum quam accepit. Omnes Diſcipuli diſperſi Euangelizabant Sermonem Dei. Act. 8.4. <hi>Bellarm. Ener. Tom.</hi> 2.</note>Dr. <hi>Ames.</hi> To Preach (in ſome ſort, upon occa<g ref="char:EOLhyphen"/>ſion, and in the ſame ſort that <hi>Stephen</hi> and <hi>Philip</hi> preached) doth belong to every believer, accord<g ref="char:EOLhyphen"/>ing to the meaſure of the gifts which he hath recei<g ref="char:EOLhyphen"/>ved. <hi>Act.</hi> 8.4. They which were ſcattered Preached the Word of God. A captive woman Preached to the <hi>Iberians.</hi> So did the King, being appointed by that woman, though he was not baptized. And this he urgeth againſt <hi>Bellarmine,</hi> to prove this an opinion of the Proteſtants, that though <hi>Stephen</hi> who was a Deacon Preached, yet it belonged not to that Office, but he might do it though he were a private man.</p>
+            <p>And in his Caſes of Conſcience, he opens himſelf further thus:<note place="margin">Caſe of Conſ. lib. 4. cap. 25. 1, 2, 4, 4.</note> A ſpecial and ſingular calling is not required to Teach and Preach the goſpel upon occa<g ref="char:EOLhyphen"/>ſion, <hi>Act.</hi> 8.4.11.19.21.18.24. And he gives theſe reaſons: 1. Becauſe its the duty of all Chri<g ref="char:EOLhyphen"/>ſtians as much as in them lies, to promote the King<g ref="char:EOLhyphen"/>dom of God, and therefore to teach one another.
+<pb n="12" facs="tcp:153344:7"/>2. Sometimes its neceſſary that men be convinced of their error, and inſtructed in the truth, before a calling can be orderly gotten. 3. Somtimes the peo<g ref="char:EOLhyphen"/>ple want a Miniſter. And farther, he ſaith, that one may not only Preach privately, but publiquely, without a ſpecial or particular calling, and that not onely in a Church <hi>Reforming,</hi>
+               <note place="margin">In Eccleſia in<g ref="char:EOLhyphen"/>ſtituenda, in Eccleſia etiam conſtituta.</note> but <hi>Reformed;</hi> and this tends to edification if order be obſerved, though none may take the Minſtery on them without a par<g ref="char:EOLhyphen"/>ticular calling.</p>
+            <p>
+               <hi>Object. If it be ſaid,</hi> that Act. 8.4. <hi>Thoſe who Preach<g ref="char:EOLhyphen"/>ed the word were Officers, becauſe its not barely ſaid</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>they Preached, but they Preached the Word, which is a peculiar ſpeech of thoſe who are in Office.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Learned <hi>Ames</hi> takes it otherwiſe, and the <hi>Leyden</hi> Profeſſors.</p>
+            <p n="2">2. If it be granted they may <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> its <hi>enough,</hi> for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as appears 1 <hi>Cor</hi> 1.17.) is no more then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>alone.</hi> And therefore the Tran<g ref="char:EOLhyphen"/>ſlators of the Bible do well render it <hi>To Preach the Go<g ref="char:EOLhyphen"/>ſpel,</hi> though <hi>Goſpel,</hi> which is as much as <hi>[The Word]</hi> be not added in the Text. That ſpeech <hi>[To Preach the Word]</hi> is a <hi>Pleonaſme,</hi> and uſual in Scripture, as to Eat meat, dream dreams, <hi>Joh.</hi> 1.3. <hi>Without him was nothing made that was made;</hi> the latter words are neceſſarily included in the former: and the like neceſſity there is to include <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; for what elſe is that they could Preach to mens Salva<g ref="char:EOLhyphen"/>tion? <hi>Act.</hi> 2.38, 39, 40, 41. And <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is and may be ſaid of ſuch acts as are not acts of Office, as appears by <hi>Rom.</hi> 10.15. <hi>Act.</hi> 8.35. and eſpecially in the Septuagint (which <hi>Luke</hi> is obſerved by Di<g ref="char:EOLhyphen"/>vines
+<pb n="13" facs="tcp:153344:7" rendition="simple:additions"/>to follow moſt in his phraſe and ſpeech, yea to ſtraighten himſelf to keep their words for the Gen<g ref="char:EOLhyphen"/>tiles ſake, when as he could have otherwiſe uttered things in better terms then they did) as is obvious to any one.<note place="margin">Cart. on Act. 14.22.</note>
+            </p>
+            <p>I might adde unto all theſe, <hi>Melancthon,</hi> who ſaith, Thoſe that are not <hi>ad publicum vocum vocati,</hi> have an expreſs grant to write or teach, by the Apoſtle, ſay<g ref="char:EOLhyphen"/>ing, <hi>You may all interpret,</hi> 1 <hi>Cor.</hi> 14. <hi>ad locum,</hi> and there<g ref="char:EOLhyphen"/>fore excuſes them who do it from running before they be ſent.</p>
+            <p>
+               <hi>Dudley Fenner</hi> ſaith, The Prophets are the chief of the Brethren appointed by the Elders to teach or exhort according to their gifts: And he diſtinguiſh<g ref="char:EOLhyphen"/>eth them from thoſe who intended the Miniſtery, <hi>Theolog. l.</hi> 7. <hi>c.</hi> 7. <hi>p.</hi> 156, 157.</p>
+            <p>The ſame opinion he alſo defendeth againſt <hi>B. Bridges, pag.</hi> 129.</p>
+            <p>I might alſo quote Mr. <hi>Bates, p.</hi> 133. <hi>Muſculus, &amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">Voetius Profeſſor of Vtricht.</note>I ſhall adde in the laſt place <hi>Voetius,</hi> who in defence of the <hi>Belgick</hi> Churches againſt <hi>Janſenius,</hi> who it ſeems laid ſuch mens preaching to their charge, ſays this: Some few who before they had any calling by the Church, did in any place, by writings,<note place="margin">Pauci aliquot qui ante om<g ref="char:EOLhyphen"/>nem vocatio<g ref="char:EOLhyphen"/>nem Eccleſia<g ref="char:EOLhyphen"/>ſticam alicubi Scriptis, diſpu<g ref="char:EOLhyphen"/>tationibus, ad<g ref="char:EOLhyphen"/>hortationibus, lectoribus, imò &amp; praedicatoribus privatis, homines ab errore &amp; peccato revocare ſtuduerunt, non uſur<g ref="char:EOLhyphen"/>parunt ſibi miniſterium Eccleſiaſticum ſed tantum illud egerunt quod omnibus licere <hi>Janſcnius</hi> concedit. <hi>Deſp. cauſa Pap. pag.</hi> 71.</note> by writings, diſ<g ref="char:EOLhyphen"/>putations, exhortations, lectures, yea and by <hi>pri<g ref="char:EOLhyphen"/>vate Preachings</hi> ſeek to recal men from their error and ſin, did not uſurp to themſelves an Eccleſiaſti<g ref="char:EOLhyphen"/>cal Minſtery, but did that only which <hi>Janſenius</hi> grants is lawful for all men.</p>
+            <p>
+               <pb n="14" facs="tcp:153344:8"/>
+By all this it appears at leaſt that godly and learned men zealous for Reformation and Presbyterial Go<g ref="char:EOLhyphen"/>vernment in the Church, judgeth it lawful for pri<g ref="char:EOLhyphen"/>vate men to open the Scriptures publiquely, and that it will be no means of <hi>Error, Confuſion</hi> or <hi>Hereſie</hi> (as it's ſlandered) but of <hi>Edification</hi> and <hi>Preſervation</hi> of the <hi>Truth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Publiſhed by Authority.</p>
+            <pb facs="tcp:153344:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
